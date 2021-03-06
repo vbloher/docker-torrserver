@@ -1,4 +1,5 @@
 FROM ubuntu:focal
+MAINTAINER Anton Kiselev
 
 ENV TS_VERSION=MatriX.83
 ENV TZ=Europe/Moscow
