@@ -1,7 +1,7 @@
 FROM ubuntu:focal
 MAINTAINER Anton Kiselev
 
-ENV TS_VERSION=MatriX.88
+ENV TS_VERSION=MatriX.89
 ENV TZ=Europe/Moscow
 
 EXPOSE 8090:8090
