@@ -2,7 +2,7 @@ FROM ubuntu:focal
 MAINTAINER Anton Kiselev
 
 ENV TS_VERSION=MatriX.93
-ENV TZ=Europe/Moscow
+ENV TZ=Europe/Kiev
 
 EXPOSE 8090:8090
 
