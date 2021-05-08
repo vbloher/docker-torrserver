@@ -19,7 +19,7 @@ services:
       - 8090:8090
     restart: unless-stopped
 ```
-```/home/docker_storage/torrservermatrix``` is the path at host for torrserver db, use yours\nDefault port of web application is ```8090```
+```/home/docker_storage/torrservermatrix``` is the path at host for torrserver db, use yours, default port of web application is ```8090```
 
 # Links
 [Dockerhub repository](https://hub.docker.com/r/soulassassin85/torrserver)
