@@ -22,4 +22,5 @@ services:
 ```/home/docker_storage/torrservermatrix``` is the path at host for torrserver db, use yours, default port of web application is ```8090```
 
 # Links
+[TorrServer repository](https://github.com/YouROK/TorrServer)
 [Dockerhub repository](https://hub.docker.com/r/soulassassin85/torrserver)
