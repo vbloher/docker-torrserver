@@ -24,6 +24,6 @@ services:
 # Links
 [TorrServer repository](https://github.com/YouROK/TorrServer)<br>
 [TorrServe repository](https://github.com/YouROK/TorrServe)<br>
-[TorrServer Adder (Google Chrome extension)](https://chrome.google.com/webstore/detail/torrserver-adder/ihphookhabmjbgccflngglmidjloeefg)
-[NUM releases](https://github.com/YouROK/releases/releases)
+[TorrServer Adder (Google Chrome extension)](https://chrome.google.com/webstore/detail/torrserver-adder/ihphookhabmjbgccflngglmidjloeefg)<br>
+[NUM releases](https://github.com/YouROK/releases/releases)<br>
 [Dockerhub repository](https://hub.docker.com/r/soulassassin85/torrserver)
