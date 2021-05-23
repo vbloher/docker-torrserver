@@ -1,7 +1,7 @@
 FROM ubuntu:focal
-MAINTAINER Anton Kiselev
+MAINTAINER Soul Assassino
 
-ENV TS_VERSION=MatriX.93
+ENV TS_VERSION=MatriX.93.3
 ENV TZ=Europe/Kiev
 
 EXPOSE 8090:8090
