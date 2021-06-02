@@ -1,5 +1,5 @@
 # Docker container for TorrServer Matrix
-Run TorrServer Matrix v93 on docker container
+Run TorrServer Matrix v96 on docker container
 
 # Timezone
 Default timezone for container is set to Europe/Kiev
