@@ -6,8 +6,11 @@
 name: Publish Docker image
 
 on:
-  release:
-    types: [published]
+  workflow_run:
+    workflows: ["Docker Image CI"]
+    branches: [main]
+    types: 
+      - completed
 
 jobs:
   push_to_registry:
