@@ -1,5 +1,6 @@
 # Docker image (arm64) for TorrServer Matrix
-Run TorrServer Matrix latest on docker container (arm64)
+Run latest version of TorrServer Matrix in docker container (arm64)
+Compatible with Raspberry Pi
 
 # Timezone
 Default timezone for container is set to Europe/Kiev
