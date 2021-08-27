@@ -27,7 +27,7 @@ services:
 ```~/torrserver/db``` is the path at host for torrserver db, use yours<br>Default port of web application is ```8090```
 
 # Links
-[Dockerhub repository](https://hub.docker.com/r/vbloher/torrserver)
+[Dockerhub repository](https://hub.docker.com/r/vbloher/torrserver)<br>
 [TorrServer repository](https://github.com/YouROK/TorrServer)<br>
 [TorrServe repository](https://github.com/YouROK/TorrServe)<br>
 [TorrServer Adder (Google Chrome extension)](https://chrome.google.com/webstore/detail/torrserver-adder/ihphookhabmjbgccflngglmidjloeefg)<br>
